@@ -1,0 +1,7 @@
+.env
+.env.local
+supabase/.temp
+supabase/.branches
+*.swp
+.DS_Store
+node_modules
